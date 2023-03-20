@@ -13,9 +13,9 @@
 
 <p align="center">
 
-- 🌱 I’m currently learning **C++, HTML, CSS**
+- 🌱 I’m currently learning **Java, Javascript, Next.js**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C, C++, Python, HTMl, CSS**
 
 - 📫 How to reach me **sashikantamohanty019@gmail.com**
 </p>
