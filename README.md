@@ -29,12 +29,15 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Soshals](https://www.soshals.app/login) - 🌱 I'm
-on track for learning more about **Full-stack Development** - 👨‍💻 All of my
-projects are available at
-[https://www.soshals.app/sashi02](https://www.soshals.app/sashi02) - ✍️ Apart
-from technical interests **I like traveling and playing Cricket.** - 📫 How to
-reach me **sashikantamohanty019@gmail.com**
+- 🔭 I’m currently working on [Soshals](https://www.soshals.app/login)
+
+- 🌱 I'm on track for learning more about **Full-stack Development**
+
+- 👨‍💻 All of my projects are available at [https://www.soshals.app/sashi02](https://www.soshals.app/sashi02)
+
+- ✍️ Apart from technical interests **I like traveling and playing Cricket.**
+
+- 📫 How to reach me **sashikantamohanty019@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
